@@ -29,9 +29,9 @@ This project is designed for SAP QM consultants to showcase real-time functional
             Purpose	                       T-Code
             Create Material	              MM01 / MM02
             Create Routing	              CA01
-            Assign MICs	                  QS21
+            Assign MICs	                          QS21
             Create Production Order	      CO01
-            Results Recording	            QE51N
+            Results Recording	                    QE51N
             Usage Decision	              QA11
             Display Inspection Lot	      QA03
 
