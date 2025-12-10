@@ -1,30 +1,20 @@
 In-Process Inspection for Production (SAP QM)
 
-A complete, beginner-friendly, functional SAP QM project demonstrating how In-Process Inspection is executed during production using inspection type 03.
-This project is designed for SAP QM consultants to showcase real-time functional execution without any coding.
+This project demonstrates the complete execution of In-Process Inspection (Inspection Type 03) in SAP Quality Management (QM). It covers the setup, process flow, test data, screenshots, and deliverables required for showcasing a practical SAP QM scenario for your portfolio.
 
 1. Project Overview
 
-        In-Process Inspection is a key Quality Management activity performed during the production process to ensure that the semifinished product meets the defined quality standards before final processing. 
-        This project covers the complete SAP QM cycle including:
-              
-              Routing setup with Inspection Characteristics
-              Production Order Creation
-              Inspection Lot Generation (03 - In-Process)
-              Results Recording
-              Usage Decision
+       In-Process Inspection is a quality control activity performed during production to ensure that semi-finished or in-process materials meet predefined quality standards before moving to the next stage of manufacturing.
+
+                This project walks through the end-to-end steps, including inspection lot creation, results recording, usage decision, and SAP transactions involved — without any coding (functional only).
 
 
-2. Objectives
+2. Business Scenario
 
-        This project demonstrates:
-        
-              ✔ How an in-process inspection is triggered during production
-              ✔ How to configure and assign inspection characteristics
-              ✔ End-to-end QM cycle for inspection type 03
-              ✔ How results are recorded and decisions made
+        A manufacturing company produces a semi-finished material. During production, the company performs an in-process quality inspection to ensure intermediate quality standards are met before final assembly.
+        SAP QM triggers Inspection Lot Type 03 when the production operation is confirmed
 
-3. SAP Transactions Used
+4. SAP Transactions Used
           
             Purpose	                       T-Code
             Create Material	           MM01 / MM02
@@ -37,7 +27,7 @@ This project is designed for SAP QM consultants to showcase real-time functional
 
    
           
-4. Process Flow 
+5. Process Flow 
 
             i.     Create material with Inspection Type 03
             ii.    Maintain in-process MICs (Master Inspection Characteristics)
