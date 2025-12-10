@@ -16,14 +16,14 @@ This project demonstrates the complete execution of In-Process Inspection (Inspe
 
 4. SAP Transactions Used
           
-            Purpose	                       T-Code
-            Create Material	           MM01 / MM02
-            Create Routing	            CA01
-            Assign MICs	                   QS21
-            Create Production Order	    CO01
-            Results Recording               QE51N
-            Usage Decision	              QA11
-            Display Inspection Lot	      QA03
+            Purpose                     T-Code
+            Create Material              MM01 / MM02
+            Create Routing              CA01
+            Assign MICs                     QS21
+            Create Production Order       CO01
+            Results Recording              QE51N
+            Usage Decision              QA11
+            Display Inspection Lot       QA03
 
    
           
@@ -37,6 +37,19 @@ This project demonstrates the complete execution of In-Process Inspection (Inspe
             vi.    Record results
             vii.   Perform Usage Decision
             viii.  Review inspection documentation
+
+6. Project Structure
+
+       In-Process-Inspection-for-Production/
+       │── readme.md
+       │── Dataset/
+       │     └── In-Process-Inspection-Dataset.xlsx
+       │
+       │── Flowchart/
+       │     └── Flowchart.pdf
+       │
+       └── Documentation/
+             └── Step by Step Process Flow.pdf
 
 
 
