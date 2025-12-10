@@ -27,11 +27,11 @@ This project is designed for SAP QM consultants to showcase real-time functional
 3. SAP Transactions Used
           
             Purpose	                       T-Code
-            Create Material	             MM01 / MM02
-            Create Routing	             CA01
-            Assign MICs	                     QS21
-            Create Production Order	     CO01
-            Results Recording                QE51N
+            Create Material	           MM01 / MM02
+            Create Routing	            CA01
+            Assign MICs	                   QS21
+            Create Production Order	    CO01
+            Results Recording               QE51N
             Usage Decision	              QA11
             Display Inspection Lot	      QA03
 
