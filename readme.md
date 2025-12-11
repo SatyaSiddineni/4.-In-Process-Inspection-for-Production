@@ -41,7 +41,7 @@ This project demonstrates the complete execution of In-Process Inspection (Inspe
 6. Project Structure
 
        In-Process-Inspection-for-Production/
-       │── readme.md
+       │── README.md
        │── Dataset/
        │     └── In-Process-Inspection-Dataset.xlsx
        │
