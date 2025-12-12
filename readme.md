@@ -53,7 +53,6 @@ This project demonstrates the complete execution of In-Process Inspection (Inspe
 
 
 
-👤 Author
+🙌 Author
 
-Satyanarayana Siddineni
-SAP Functional Consultant
+Satyanarayana Siddineni SAP Functional Consultant
