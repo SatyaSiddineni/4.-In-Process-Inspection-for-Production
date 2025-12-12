@@ -49,7 +49,7 @@ This project demonstrates the complete execution of In-Process Inspection (Inspe
        │     └── Flowchart.pdf
        │
        └── Documentation/
-             └── Step by Step Process Flow.pdf
+             └── In-Process Inspection for Production process documentation.pdf
 
 
 
