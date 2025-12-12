@@ -42,8 +42,8 @@ This project demonstrates the complete execution of In-Process Inspection (Inspe
 
        In-Process-Inspection-for-Production/
        │── README.md
-       │── Dataset/
-       │     └── In-Process-Inspection-Dataset.xlsx
+       │── Sample test data/
+       │     └── In-Process Inspection Sample test data.xlsx
        │
        │── Flowchart/
        │     └── Flowchart.pdf
